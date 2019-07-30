@@ -1,0 +1,22 @@
+{
+  "name": "vimmerby-files",
+  "version": "1.0.0",
+  "description": "File handler for node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softbrix/vimmerby-files.git"
+  },
+  "keywords": [
+    "file"
+  ],
+  "author": "Andreas Sehr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/softbrix/vimmerby-files/issues"
+  },
+  "homepage": "https://github.com/softbrix/vimmerby-files#readme"
+}
